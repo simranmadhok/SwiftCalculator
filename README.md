@@ -15,4 +15,4 @@ ________________________________________________________________________________
 Previews
 
 
-![potrait mode basic](https://i.imgur.com/6Z6TDJj.png)    ![landscape mode advanced](https://i.imgur.com/nPzVhQt.png)
+![potrait mode basic](https://i.imgur.com/f0rzY2q.png)
